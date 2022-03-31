@@ -1,0 +1,21 @@
+/* lasagna styles */
+
+h1 {
+  text-align: center;
+}
+
+ol {
+  display: block;
+  width: 20%;
+  text-align: left;
+}
+
+img {
+  width: 50%;
+  height: auto;
+  float: left;
+}
+
+p {
+  clear: both;
+}
